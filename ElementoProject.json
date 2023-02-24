@@ -15,7 +15,19 @@
           "name": "The Page",
           "kind": "Page",
           "properties": {},
-          "elements": []
+          "elements": [
+            {
+              "id": "text_1",
+              "name": "Text 1",
+              "kind": "Text",
+              "properties": {
+                "content": "The Worms!",
+                "fontSize": 32,
+                "marginBottom": "1em"
+              },
+              "elements": []
+            }
+        ]
         }
       ]
     }
