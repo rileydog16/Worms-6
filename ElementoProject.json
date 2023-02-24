@@ -21,13 +21,13 @@
               "name": "Text 1",
               "kind": "Text",
               "properties": {
-                "content": "The Worms!",
-                "fontSize": 32,
+                "content": "The Big Worms !!",
+                "fontSize": 40,
                 "marginBottom": "1em"
               },
               "elements": []
             }
-        ]
+          ]
         }
       ]
     }
